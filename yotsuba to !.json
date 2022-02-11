@@ -6,13 +6,11 @@
   "cover": "https://cdn.myanimelist.net/images/manga/3/57369.jpg",
   "chapters": {
     "1": {
-      "title": "1",
+      "title": "إلى المنزل الجديد",
       "volume": "1",
-      "last_updated": "1644543098",
+      "last_updated": "1644543338",
       "groups": {
-        "Tw : @sinsi_EE": [
-          "https://imgur.com/a/P72ntC9"
-        ]
+        "": "/proxy/api/imgur/chapter/P72ntC9"
       }
     }
   }
